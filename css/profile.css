@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+.perfil{
+    color:#EA9010;
+    background-color: #EAEFBD;
+    text-align: center;
+}
+
+
+.header{
+    color: #EA9010;
+}
+
+h2{
+    color: #37371F;
+    text-justify: auto;
+}
+
+.stack{
+    background-color: #C9E3AC;
+    text-align: justify;
+}
+
